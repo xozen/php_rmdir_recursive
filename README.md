@@ -1,2 +1,2 @@
 # php_rmdir_recursive
-Remove directory recursively
+Remove directory tree recursively
