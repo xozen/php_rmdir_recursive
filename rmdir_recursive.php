@@ -1,3 +1,4 @@
+<?
 function rmdir_recursive($dir, $verbose=false) {
 
 
@@ -68,3 +69,4 @@ function rmdir_recursive($dir, $verbose=false) {
 
 
 }
+?>
